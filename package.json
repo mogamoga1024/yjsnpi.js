@@ -1,0 +1,25 @@
+{
+  "name": "@mogamoga1024/yjsnpi",
+  "version": "1.0.0",
+  "description": "YJSNPI",
+  "main": "dist/yjsnpi.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mogamoga1024",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogamoga1024/yjsnpi.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mogamoga1024/yjsnpi.js/issues"
+  },
+  "homepage": "https://github.com/mogamoga1024/yjsnpi.js#readme",
+  "devDependencies": {
+    "terser": "^5.44.0",
+    "vite": "^7.1.12"
+  }
+}
